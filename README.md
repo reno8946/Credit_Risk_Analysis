@@ -6,9 +6,11 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 ## Results: 
 
-* ![image](https://user-images.githubusercontent.com/70483866/104131993-fc8bd680-533f-11eb-8cdd-7d6f0522e664.png)
+* 
+![image](https://user-images.githubusercontent.com/70483866/104131993-fc8bd680-533f-11eb-8cdd-7d6f0522e664.png)
 
-* ![image](https://user-images.githubusercontent.com/70483866/104132026-470d5300-5340-11eb-9c4d-0e8a9631fe75.png)
+* 
+![image](https://user-images.githubusercontent.com/70483866/104132026-470d5300-5340-11eb-9c4d-0e8a9631fe75.png)
 
 * ![image](https://user-images.githubusercontent.com/70483866/104132060-9489c000-5340-11eb-8978-5b01ccea625e.png)
 
